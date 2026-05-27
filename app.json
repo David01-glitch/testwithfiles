@@ -1,0 +1,11 @@
+{
+  "name": "Classic American Roads",
+  "description": "Nostalgic Americana travel blog covering scenic highways, vintage diners, classic motels, and small-town stories.",
+  "repository": "https://github.com/your-org/classic-american-roads",
+  "keywords": ["react", "vite", "tailwind", "express", "travel", "blog"],
+  "env": {
+    "NODE_ENV": { "value": "production" }
+  },
+  "scripts": { "postdeploy": "npm run build" },
+  "formation": { "web": { "quantity": 1, "size": "basic" } }
+}
