@@ -36,7 +36,7 @@ export default function Footer() {
           <h4 className="text-cream font-semibold mb-3">Get in touch</h4>
           <p className="text-sm text-cream/70">455 Country Route Blvd<br/>Nashville, TN 37203</p>
           <p className="text-sm text-cream/70 mt-2">classicamericanroads@gmail.com</p>
-          <p className="text-sm text-cream/70">(615) 555-8240</p>
+          <p className="text-sm text-cream/70">+1 (704) 684-9215</p>
         </div>
       </div>
       <div className="border-t border-cream/10">

@@ -153,7 +153,7 @@ export default function Home() {
             <p className="h-sub">Tell us about the diner you can't stop thinking about, the motel sign that made you pull over, or the highway you wish more people knew.</p>
             <div className="mt-6 space-y-2 text-brownv">
               <p><strong className="text-ink">Email:</strong> classicamericanroads@gmail.com</p>
-              <p><strong className="text-ink">Phone:</strong> (615) 555-8240</p>
+              <p><strong className="text-ink">Phone:</strong> +1 (704) 684-9215</p>
               <p><strong className="text-ink">Mail:</strong> 455 Country Route Blvd, Nashville, TN 37203</p>
             </div>
             <Link to="/contact" className="btn-primary mt-6">Open the Mailbox</Link>

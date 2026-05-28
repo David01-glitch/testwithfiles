@@ -16,7 +16,7 @@ export default function Contact() {
           <SectionHeader kicker="Get in touch" title="Drop us a postcard" subtitle="Tip on a hidden diner? Question about a guide? We read every note." center={false} />
           <div className="space-y-4 text-brownv mt-4">
             <p><strong className="text-ink">Email</strong><br/>classicamericanroads@gmail.com</p>
-            <p><strong className="text-ink">Phone</strong><br/>(615) 555-8240</p>
+            <p><strong className="text-ink">Phone</strong><br/>+1 (704) 684-9215</p>
             <p><strong className="text-ink">Mailing Address</strong><br/>455 Country Route Blvd<br/>Nashville, TN 37203</p>
             <p><strong className="text-ink">Hours</strong><br/>Mon–Fri · 9am to 5pm CT</p>
           </div>
